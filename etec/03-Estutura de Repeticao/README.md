@@ -62,9 +62,9 @@ A multa por quilo excedente é R$ 4,00.
 
 43.	Crie um algoritmo que receba 4 notas do aluno e verifique se o mesmo foi aprovado ou reprovado com um dos seguintes conceitos:
 		
-		Aprovado		 	           							Reprovado
+		Aprovado		 	           		Reprovado
 		A - maior igual à 9                                    	D – maior igual à 2,5 e menor que 5  
-		B – maior igual à 7 e menor que 9       				E – menor que 2,5 
+		B – maior igual à 7 e menor que 9       		E – menor que 2,5 
 		C – maior igual à 5 e menor que 7         
 
 
