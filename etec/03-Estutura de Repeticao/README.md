@@ -9,8 +9,9 @@
 
 
 31.	Tendo como dados de entrada a altura e o sexo de 15 Pessoas, construa um algoritmo que calcule o peso ideal, utilizando as seguintes fórmulas:
-Homem=(72.7*ALT)-58;
-Mulher=(62.1*ALT)-44.7.
+
+		Homem=(72.7*ALT)-58;
+		Mulher=(62.1*ALT)-44.7.
 
 
 32.	Crie um algoritmo que receba uma senha e verifique sua validade ou não. Senha válida “asdfg”. Se o usuário digitar errado mais de 3 vezes finalizar o programa.
@@ -18,6 +19,7 @@ Mulher=(62.1*ALT)-44.7.
 
 
 33.	O índice de massa corporal (Peso/Alt²) avalia o nível de gordura de cada pessoa e é adotado pela Organização Mundial da Saúde(OMS). O IMC de uma pessoa é dado pela divisão da massa em KG pela altura em metros elevado ao quadrado. Elabore um algoritmo que, a partir da massa e da altura informados pelo usuário, calcule e apresente seu IMC de várias pessoas e sua classificação conforme a tabela seguinte:
+		
 		• <18 Magreza
 		• 18,0 a 24,9 Saudável
 		• 25,0 a 29,7 Sobrepeso
@@ -41,6 +43,7 @@ A multa por quilo excedente é R$ 4,00.
 
 
 39.	Escrever um programa para apresentar o nome do lanche do MacDonalds conforme no nº da opção digita pelo cliente (usuário):
+		
 		• 1.BigMac
 		• 2.Quarteirão
 		• 3.MacChicken
@@ -58,6 +61,7 @@ A multa por quilo excedente é R$ 4,00.
 
 
 43.	Crie um algoritmo que receba 4 notas do aluno e verifique se o mesmo foi aprovado ou reprovado com um dos seguintes conceitos:
+		
 		Aprovado		 	           							Reprovado
 		A - maior igual à 9                                    	D – maior igual à 2,5 e menor que 5  
 		B – maior igual à 7 e menor que 9       				E – menor que 2,5 
@@ -66,6 +70,7 @@ A multa por quilo excedente é R$ 4,00.
 
 
 44.	Crie um  programa que classifique os nadadores nas categorias de acordo com sua idade:
+		
 		Infantil A – de 5 à 7 anos;
 		Infantil B – de 8 à 10 anos; 
 		Juvenil A – de 11 à  13 anos;
